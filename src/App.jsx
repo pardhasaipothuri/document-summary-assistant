@@ -186,7 +186,6 @@ export default function App() {
   return (
     <main className="app">
       <section className="hero">
-        <div className="badge">AI-Powered Document Assistant</div>
         <h1>Document Summary Assistant</h1>
         <p>Upload a PDF or scanned image and quickly extract, summarize, and understand its most important information.</p>
       </section>
